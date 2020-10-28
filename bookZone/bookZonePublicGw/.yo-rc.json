@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "az.crbn.bookzone.publicgw"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "gateway",
+    "baseName": "bookZonePublicGw",
+    "packageName": "az.crbn.bookzone.publicgw",
+    "packageFolder": "az/crbn/bookzone/publicgw",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzJmYmIwMzc3NmRkNGY1YjcwNTQ5MGFhM2U5ZDFmYmFiMDk4OWU1ZmNmMGE3MTk2YmJhNWUyZmYwN2I4NmRlNDkyNzEyZGNjMWQ5OTFkM2UzZGNlNWNjODQzNmNjNmFjNGY4MzJjZmFlMTVkNTczYjczZWNmYzg1MWI0Y2Y4NjQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1603884979850,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
